@@ -14,4 +14,4 @@ export const firebaseConfig = {
 
 // Your Telegram bot's public username, e.g. "michael_assistant_bot"
 // (without the @) — used to link to the live demo once the bot exists.
-export const TELEGRAM_BOT_USERNAME = "YOUR_BOT_USERNAME";
+export const TELEGRAM_BOT_USERNAME = "OfficialMikeBot";
